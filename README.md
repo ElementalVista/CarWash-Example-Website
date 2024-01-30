@@ -1,0 +1,1 @@
+This project represents a webpage for TurboGlow Car Wash (Made up name), featuring a Bootstrap-powered design with a responsive navigation bar, a visually appealing carousel showcasing car wash services, and sections promoting services, package purchases, and information about the business.
